@@ -1,0 +1,1 @@
+This binary contains a free flag. No strings attached, seriously!

@@ -1,0 +1,1 @@
+What more could you ask for than a program that prints out the flag for you? Just run it and the flag is yours!

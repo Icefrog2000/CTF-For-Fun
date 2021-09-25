@@ -1,0 +1,1 @@
+What more could you ask for than a program that checks the flag for you? Just guess and check and eventually the flag will be yours!

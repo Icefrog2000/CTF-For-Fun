@@ -1,0 +1,1 @@
+My Boss is pissed at my new application!!! I had very little time to complete my project.. So I never had time to think about the security mechanism!! The worst part is it is also leaking some important Secrets!! But my application is too small..Is there any chance to exploit this!!

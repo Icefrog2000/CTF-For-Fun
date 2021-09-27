@@ -1,0 +1,1 @@
+I heard you like to solve puzzles. Help me solve this Scattered Puzzle. I'll give you a big chunk of Gold in return

@@ -1,0 +1,1 @@
+My friend made this encryption circuit to encrypt the text. Could you help to decrypt that text

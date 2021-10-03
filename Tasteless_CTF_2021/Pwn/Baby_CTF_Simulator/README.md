@@ -1,0 +1,1 @@
+We heard you like playing CTFs, so we made this CTF simulator for you! This is what we used to practice hosting this CTF. We hope it will be of use to you for the next CTF you host!

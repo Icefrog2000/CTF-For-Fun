@@ -1,0 +1,1 @@
+We are building a new Terminal System. We already have a demo ready and deployed. Can you test it? The login is not yet active. You can use netcat to access the challenge: nc "host" "port" Flag format: flag{"string"}

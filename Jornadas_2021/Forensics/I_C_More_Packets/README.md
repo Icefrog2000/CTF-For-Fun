@@ -1,0 +1,1 @@
+A strange picture is floating around our intranet. I've tried to see what it is but it doesn't seem nothing. Can you give me a little help a investigate further?

@@ -1,0 +1,1 @@
+We heard is it possible to open a Portal with this program. Can you try it? You can use netcat to access the challenge: nc "host" "port" flag format: flag{"string"}

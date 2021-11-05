@@ -1,0 +1,1 @@
+We managed to obtain some files from Mr. Heker but the flag is not in any file. The image i send you was in a very secured location of Mr. Heker's data. Probably the flag is hidden in some kind of way withing the picture. Please check it and let me know if you find something.

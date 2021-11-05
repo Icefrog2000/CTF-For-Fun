@@ -1,0 +1,1 @@
+Our intelligence got us into Mr. Heker's lair. He tried to destroy his NAS. He managed to unplug the disks. Fortunately we were able to capture him before he could destroy them. I am sending you a digital image of each one of them. We need the info inside those disks. Please recover it and let me know when you get the flag.

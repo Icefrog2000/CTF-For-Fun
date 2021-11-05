@@ -1,0 +1,1 @@
+Will your lucky numbers help you with this one? Exploit the server and get the flag.

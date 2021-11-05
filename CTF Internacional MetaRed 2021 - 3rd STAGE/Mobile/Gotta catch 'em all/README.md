@@ -1,0 +1,1 @@
+I love Pokémon, my friends call me the PokéManiac. I coded my own Pokédex but if you look closely, there's more to it than meets the eye.

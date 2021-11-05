@@ -1,0 +1,1 @@
+Everyone is moving to the cloud. MunraSoft now presents you with paint online, available using your terminal only.

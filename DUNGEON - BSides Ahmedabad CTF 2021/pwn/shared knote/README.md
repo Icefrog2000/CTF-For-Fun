@@ -1,0 +1,1 @@
+Things are preserved as long as someone uses it. So as notes.

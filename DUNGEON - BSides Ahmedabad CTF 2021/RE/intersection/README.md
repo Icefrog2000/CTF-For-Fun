@@ -1,0 +1,1 @@
+Simple flag checker for warmup! No strip and no obfuscation! Only main function!

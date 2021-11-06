@@ -1,0 +1,1 @@
+In 20XX, 99% of humanity purchased the license of this software, which means there should be more than 9 billion license keys. It's easy for you to crack one of them, right?

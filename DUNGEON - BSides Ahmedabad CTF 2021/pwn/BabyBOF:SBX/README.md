@@ -1,0 +1,1 @@
+As we have received many malicious feedbacks, we decided to isolate the feedback form. Is it over-killing?

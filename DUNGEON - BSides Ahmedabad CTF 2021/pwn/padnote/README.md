@@ -1,0 +1,1 @@
+I proudly released the world most secure note after aggressively tested the source code with AFL and CodeQL, and didn't find any bugs.

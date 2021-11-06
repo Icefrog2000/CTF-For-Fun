@@ -1,0 +1,1 @@
+It's pitch black. You are likely to be eaten by a grue.

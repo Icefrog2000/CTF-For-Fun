@@ -1,0 +1,1 @@
+"Detect the concept not the trap"

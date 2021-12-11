@@ -1,0 +1,2 @@
+Dr. Kringle has been recently trying to expand his joy-bringing business to the adult sector, but after seeing his latest startup we're not so sure if he's going in the right direction. Can you help him reconsider?
+nc challs.xmas.htsp.ro 2002

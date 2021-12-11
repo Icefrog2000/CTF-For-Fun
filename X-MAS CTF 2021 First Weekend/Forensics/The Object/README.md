@@ -1,0 +1,1 @@
+The Object was given by an, um, "Agent", I think they called themselves... we have no leads on what it does. Please help.

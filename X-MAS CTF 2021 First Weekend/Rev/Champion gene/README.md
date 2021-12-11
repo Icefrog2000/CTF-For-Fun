@@ -1,0 +1,1 @@
+Introducing the %s™ slot machine, designed to fairly grade neural nets in AI contests. Only the fittest brains can pass.

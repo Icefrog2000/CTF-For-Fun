@@ -1,0 +1,1 @@
+You have been approached by an old sage who identifies himself only as the "Master of NALchemy". He seems to think you are some sort of arcane talent... or something... and dropped this file next to you before floating mysteriously away. Who was he? More importantly, can you learn and execute a high-level NALcromancy spell from scratch?

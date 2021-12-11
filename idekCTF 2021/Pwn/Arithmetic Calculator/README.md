@@ -1,0 +1,2 @@
+Learning programming is a fun thing, right? One of the first exercises in programming is to make a calculator. I hope I made a secure one. Can you provide an evaluation?
+nc arithmetic-calculator.chal.idek.team 1337

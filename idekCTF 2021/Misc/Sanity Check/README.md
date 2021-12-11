@@ -1,0 +1,1 @@
+Welcome to idekCTF! idek{let_the_games_begin!}

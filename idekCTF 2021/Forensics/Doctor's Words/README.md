@@ -1,0 +1,1 @@
+The famous Dr. A. E. S., told me that my expected time to live is not very long. Can you decrypt the fragmented message he sEnt me? He also left me A miXed footnote on my last CT scan result: 16 + 16 + CT.

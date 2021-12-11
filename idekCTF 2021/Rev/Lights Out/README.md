@@ -1,0 +1,1 @@
+I always wondered if you can turn a game into a flag checker. Turns out, you can!

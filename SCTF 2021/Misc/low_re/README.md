@@ -1,0 +1,1 @@
+Although IDA is very powerful, please throw away your IDA. (Please configure Python 3.8 environment, flag is SCTF{input})

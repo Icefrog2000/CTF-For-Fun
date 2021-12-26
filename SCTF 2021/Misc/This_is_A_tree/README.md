@@ -1,0 +1,1 @@
+一颗圣诞树，还有好多礼物,flag需要SCTF{}噢 ,a beautiful tree,U need to know some Chinese traditional knowledge,flag need a “SCTF{your_flag}”

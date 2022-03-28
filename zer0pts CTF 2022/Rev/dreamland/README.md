@@ -1,0 +1,1 @@
+A buried cipher algorithm like a theme park left abandoned.

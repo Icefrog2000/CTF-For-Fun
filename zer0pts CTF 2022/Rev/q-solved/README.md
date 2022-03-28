@@ -1,0 +1,1 @@
+I copied the solver of a reversing task from the future. But it doesn't show the flag forever :thinking:

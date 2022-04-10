@@ -1,0 +1,2 @@
+nc blyat-01.hfsc.tf 8888
+See if you can break into one of the yacht's subsystems. We have a crew member that will click any link we send them. the person is at least on the same network as the service 🤘📡🛥

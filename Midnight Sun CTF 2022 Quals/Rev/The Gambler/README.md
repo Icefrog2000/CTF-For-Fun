@@ -1,0 +1,1 @@
+The secret is 'Knowin' what the cards were'.

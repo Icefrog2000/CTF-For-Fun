@@ -1,0 +1,1 @@
+The policia is attempting to find professor. They went around 10 miles in north and turn to north-east and move 5 miles. They reached the location but could not find the professor. What a waste??

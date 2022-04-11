@@ -1,0 +1,1 @@
+Mercedes cares about her students. She is somewhat timid, but is brave when it comes to defending her students. One of her student has designed this application which protected by password. Can you Crack it?

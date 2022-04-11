@@ -1,0 +1,1 @@
+Although she was not included in the Royal Mint of Spain robbery, she did participate in the Bank of Spain heist. Her task consists of being among the other hostages, pretending to be one of them as a form of crowd control. But, did this continue successfully? Or was there a twist?

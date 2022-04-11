@@ -1,0 +1,1 @@
+Shakir is the lead Pakistani hacker hired, he use to connect call between professor and other where distance between them can be where but within the universe through untraceable line. Can you help to find that?
